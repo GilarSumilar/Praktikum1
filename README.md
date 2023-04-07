@@ -8,7 +8,7 @@
 | **Kelas** | TI.22.A.4 |
 | **Mata Kuliah** | Basis data |
 
-# Latihan membuat database, MySQL
+# Latihan membuat database, MySQL menggunakan cli
 
 ## Tugas Praktikum 
 
