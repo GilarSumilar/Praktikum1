@@ -1,4 +1,4 @@
-# Latihan2
+# Praktikum2
 
 ## Profil
 | Variable | Isi |
